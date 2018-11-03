@@ -87,7 +87,7 @@ public class VarastoTest {
     @Test
     public void VarastoAlkusaldollaVirheellinenasaldo() {
       this.varasto = new Varasto(10 , -5.0);
-      assertEquals(999990.0, varasto.getSaldo(),vertailuTarkkuus);
+      assertEquals(0.0, varasto.getSaldo(),vertailuTarkkuus);
     }
 
     @Test
