@@ -1,0 +1,7 @@
+pekka;akkep
+jukka;akkuj
+uusi;oikein
+aaa;aaaa
+bbbb;bbbb
+bbb;bbbbb
+uusi-230857940;oikein
